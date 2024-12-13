@@ -8,7 +8,7 @@ public class RandomStringGenerator {
         Random random = new Random();
 
         System.out.println("Welcome to the Random String Matcher!");
-        System.out.println("You can enter a string, and the program will try to randomly generate it.");
+        System.out.println("You can enter a string, and the program will try to randomly generate it. Please refrain from doing words above 4 letters as it will take millions if not billions of attempts and you probs won't see the attempts");
         System.out.println("Type 'exit' to quit the program at any time.\n");
 
             // Get user input
